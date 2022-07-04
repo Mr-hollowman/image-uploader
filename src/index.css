@@ -1,0 +1,24 @@
+*{
+    margin: 0 auto;
+    overflow: hidden;
+}
+.myButton{
+    background: rgb(111, 111, 241);
+    padding:20px;
+    width: 200px;
+    border-radius: 10px;
+    border: 0px;
+}
+.error{
+    font-size: larger;
+    text-align: center;
+    margin-top: 24%;
+    background-color: rgb(239, 115, 115);
+    padding: 20px;
+}
+.url-container{
+    background: wheat;
+    text-align: center;
+    padding: 15px;
+    border-radius: 15px;
+}
