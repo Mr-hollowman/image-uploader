@@ -1,0 +1,33 @@
+.FilesDragAndDrop .FilesDragAndDrop-area {
+    width: 1350px;
+    height: 100vh;
+    padding: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-flow: column nowrap;
+    font-size: 24px;
+    color: #555;
+    /* border: 2px #c3c3c3 dashed; */
+    /* border-radius: 12px; */
+}
+.FilesDragAndDrop .FilesDragAndDrop-area .area-icon {
+    font-size: 64px;
+    margin-top: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.image{
+    width: 600px;
+    height: 600px;
+    border-radius: 12px;
+    margin-top: 4%;
+    margin-bottom: 30px;
+}
+.image-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
