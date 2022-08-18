@@ -4,9 +4,7 @@ import App from './App';
 import './index.css';
 
 const root = createRoot(document.getElementById('app'));
-
-
-// hi
+// mohan
 root.render(
     <App/>
 )
